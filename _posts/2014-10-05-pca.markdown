@@ -1,0 +1,9 @@
+---
+layout: post
+title: "PCA"
+date: 2014-10-05 21:28:54 -0500
+comments: true
+categories: stats
+---
+PCA example:  
+https://www.youtube.com/watch?v=VzPpJXISz-E&index=2&list=PLC56878EEC2831D86

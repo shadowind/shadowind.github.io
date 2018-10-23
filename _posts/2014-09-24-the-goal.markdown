@@ -1,0 +1,20 @@
+---
+layout: post
+title: "The goal"
+date: 2014-09-24 09:29:59 -0500
+comments: true
+categories: diary
+---
+
+I need to mark this. Saw a great page on aribnb. I like this website for long, my great memories are because of it. 
+http://nerds.airbnb.com/
+
+See you soon. 
+
+![alt text](http://blogs-images.forbes.com/davidvinjamuri/files/2014/07/airbnb_horizontal_lockup_print.jpg =100x)
+
+Though it might not good to add code in such an important page. To control the size of image in markdown
+
+`![alt text](http://blogs-images.forbes.com/davidvinjamuri/files/2014/07/airbnb_horizontal_lockup_print.jpg =100x)`
+
+Another thing, categories cannot hold two words for one cat? Work this out this weenkend.
